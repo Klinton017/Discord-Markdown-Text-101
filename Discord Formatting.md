@@ -10,18 +10,19 @@ This guide contains the following:
 # **TEXT FORMATTING**
 
 
-*Italics* --> \*Italic\* **OR** \_Italics\_
+*Italics* → \*Italic\* **OR** \_Italics\_
 
-__*Underline italics*__ --> \_\_\*Underline italics\*_\_
-
-
-**Bold** --> \*\*Bold\*\*
-
-__**Underline Bold**__ --> \_\_\*\*Underline Bold\*\*_\_
+__*Underline italics*__ → \_\_\*Underline italics\*_\_
 
 
+**Bold** → \*\*Bold\*\*
 
-\*\*\*Bold and Italic\*\*\*
+__**Underline Bold**__ → \_\_\*\*Underline Bold\*\*_\_
+
+
+
+***Bold italics*** → \*\*\*Bold and Italic\*\*\*
+__***underline bold italics***__ → \_\_\*\*\*underline bold italics\*\*\*_\_
 
 
 
@@ -178,6 +179,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
