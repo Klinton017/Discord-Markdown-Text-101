@@ -11,7 +11,7 @@ This guide contains the following:
 
 
 
-*\Italic Message\*
+\*Italic Message\*
 
 
 
@@ -176,6 +176,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
