@@ -58,7 +58,7 @@ Like Headers, you can add subtext to any chat message. To do so, add a (-# ) bef
 
 You can use masked links to make text a clickable or pressable hyperlink. To do so, you need to include the text you want displayed in brackets and then the URL in parentheses. For example:
 
-[This is Google](https://google.com/)
+\[This is Google]\(https://google.com/)
 
 IMG
 
@@ -185,6 +185,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
