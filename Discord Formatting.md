@@ -33,7 +33,7 @@ __Underline__ → \_\_Underline\_\_
 # **ORGANISATIONAL TEXT FORMATTING**
 
 
-#### **HEADERS**
+## **HEADERS**
 
 To create a header you just need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.
 
@@ -46,6 +46,11 @@ To create a header you just need to include a specific number of the hash/pound 
 <img width="270" height="150" alt="Discord_Header_Result" src="https://github.com/user-attachments/assets/b993a2d6-bb8c-4c79-9455-1952a4978599" />
 
 
+## **SUBTEXT**
+
+Like Headers, you can add subtext to any chat message. To do so, add a (-# ) before the text you want to appear in the subtext. Don’t forget the space after # before your message. For example: 
+
+\-\# This is subtext\
 
 
 
@@ -175,6 +180,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
