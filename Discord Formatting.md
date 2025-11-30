@@ -11,15 +11,17 @@ This guide contains the following:
 
 
 
-*Italics* -> \*Italic\* **OR** \_Italics\_
+*Italics* --> \*Italic\* **OR** \_Italics\_
+
+__*Underline italics*__ --> \_\_\*Underline italics\*_\_
 
 
 
-**Bold** -> \*\*Bold\*\*
+**Bold** --> \*\*Bold\*\*
 
 
 
-\*\*\*Bold and Italic Message\*\*\*
+\*\*\*Bold and Italic\*\*\*
 
 
 
@@ -176,6 +178,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
