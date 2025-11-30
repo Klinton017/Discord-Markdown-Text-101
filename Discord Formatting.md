@@ -30,17 +30,12 @@ __Underline__ → \_\_Underline\_\_
 
 ~~Strikethrough~~ → \~\~Strikethrough\~\~
 
-
-
-||SPOILER||
-
-
-
+# **ORGANISATIONAL TEXT FORMATTING**
 
 
 #### **HEADERS**
 
-
+To create a header you just need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.
 
 \# Big Header
 
@@ -48,6 +43,7 @@ __Underline__ → \_\_Underline\_\_
 
 \### Even Smaller Header
 
+<img width="310" height="300" alt="image" src="https://github.com/user-attachments/assets/52252602-6f88-49a7-be94-a9dd989dfe57" />
 
 
 
@@ -177,6 +173,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
