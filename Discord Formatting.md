@@ -43,10 +43,9 @@ To create a header you just need to include a specific number of the hash/pound 
 
 \### Even Smaller Header
 
-
-<img width="300" height="200" alt="Discord_Header_Text" src="https://github.com/user-attachments/assets/32c409d7-5abc-49af-a849-1de52a0cb6b9" />
+<img width="270" height="150" alt="Discord_Header_Text" src="https://github.com/user-attachments/assets/855696c6-ed9b-46ae-aebc-3c62668a5dbb" />
 <br>
-<img width="300" height="200" alt="Discord_Header_Result" src="https://github.com/user-attachments/assets/8782d7bd-2534-4057-8e56-7e27a0c29ac3" />
+<img width="270" height="150" alt="Discord_Header_Result" src="https://github.com/user-attachments/assets/b993a2d6-bb8c-4c79-9455-1952a4978599" />
 
 
 
@@ -178,6 +177,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
