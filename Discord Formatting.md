@@ -7,7 +7,7 @@ This guide contains the following:
 
 
 
-#### **TEXT FORMATTING**
+# **TEXT FORMATTING**
 
 
 
@@ -15,7 +15,7 @@ This guide contains the following:
 
 
 
-\*\*Bold Message\*\*
+**Bold** -> \*\*Bold\*\*
 
 
 
@@ -27,7 +27,7 @@ This guide contains the following:
 
 
 
-\~~Strikethrough\~~
+~~Strikethrough~~ -> \~\~Strikethrough\~\~
 
 
 
@@ -176,6 +176,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
