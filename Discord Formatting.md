@@ -22,6 +22,7 @@ __**Underline Bold**__ → \_\_\*\*Underline Bold\*\*_\_
 
 
 ***Bold italics*** → \*\*\*Bold and Italic\*\*\*
+
 __***underline bold italics***__ → \_\_\*\*\*underline bold italics\*\*\*_\_
 
 
@@ -179,6 +180,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
