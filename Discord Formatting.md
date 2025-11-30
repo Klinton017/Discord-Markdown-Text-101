@@ -54,13 +54,20 @@ Like Headers, you can add subtext to any chat message. To do so, add a (-# ) bef
 
 <img width="270" height="77" alt="Discord_Subtext_Result" src="https://github.com/user-attachments/assets/02713f71-7b77-4f5f-a5dd-e81dd7e08a35" />
 
+### **MASKED LINKS**
 
-#### **LISTS**
+You can use masked links to make text a clickable or pressable hyperlink. To do so, you need to include the text you want displayed in brackets and then the URL in parentheses. For example:
+
+[This is Google](https://google.com/)
+
+IMG
+
+### **LISTS**
+
+You can create a bulleted list using either (-) or (*) in the beginning of each line. For example:
 
 -list of stuff
-
 -and things
-
 \*and more things
 
 
@@ -178,6 +185,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
