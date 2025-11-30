@@ -1,4 +1,9 @@
-# **DISCORD MARKDOWN 101**
+# **DISCORD MARKDOWN TEXT 101**
+Want to spice up your Discord messages with some flavour and personality, well then you have found the right place. 
+Discord uses something called Markdown text, a simple yet powerful text formatting system, that can help make your sentences pop.
+All you have to do is just plop a few characters in from of a text, and viola a unique sentence is created
+
+This guide contains the following:
 
 
 
@@ -6,7 +11,7 @@
 
 
 
-\*Italic Message\*
+*\Italic Message\*
 
 
 
@@ -171,5 +176,6 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
