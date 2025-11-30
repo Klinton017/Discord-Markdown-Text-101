@@ -50,7 +50,7 @@ To create a header you just need to include a specific number of the hash/pound 
 
 Like Headers, you can add subtext to any chat message. To do so, add a (-# ) before the text you want to appear in the subtext. Don’t forget the space after # before your message. For example: 
 
-\-\# This is subtext\
+\-\# This is subtext
 
 
 
@@ -180,6 +180,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
 
 
