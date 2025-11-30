@@ -1,4 +1,4 @@
-# **DISCORD MARKDOWN**
+# **DISCORD MARKDOWN 101**
 
 
 
@@ -171,4 +171,5 @@ Just type in your emoji, and add a (\\) in front of it before sending
 
 
 **Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
+
 
