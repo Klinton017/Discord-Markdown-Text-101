@@ -16,7 +16,7 @@ All you have to do is just plop a few characters in front of a text, and viola a
 - [BLOCK QUOTES](#block-quotes)
 - [SPOILER TAGS](#spoiler-tags)
 - [TIMESTAMPS](#timestamps)
-- [DISCORD BOT/APP SYNTAX](#discord-bot/app-syntax)
+- [DISCORD BOT/APP SYNTAX](#discord-botapp-syntax)
   - [PING USER](#ping-user)
   - [PING USER NICKNAME](#ping-user-nickname)
   - [PING CHANNEL](#ping-channel)
@@ -423,6 +423,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 That's the end
 
 Now you're a Discord Markdown Expert. Get out there and highlight your statements!
+
 
 
 
