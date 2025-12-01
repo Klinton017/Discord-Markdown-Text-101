@@ -55,7 +55,7 @@ __Underline__ → \_\_Underline\_\_
 
 ### **HEADERS**
 
-To create a header you just need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.
+To create a header you just need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (`###`) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.
 
 \# Big Header
 
@@ -424,6 +424,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 That's the end
 
 Now you're a Discord Markdown Expert. Get out there and highlight your statements!
+
 
 
 
