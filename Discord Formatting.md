@@ -22,6 +22,7 @@ All you have to do is just plop a few characters in front of a text, and viola a
   - [PING CHANNEL](#ping-channel)
   - [PING ROLE](#ping-role)
   - [PING CHANNELS AND ROLES FEATURE](#ping-channels-and-roles-feature)
+  - [USE EMOJIS](#use-emojis)
 
 
 
@@ -423,6 +424,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 That's the end
 
 Now you're a Discord Markdown Expert. Get out there and highlight your statements!
+
 
 
 
