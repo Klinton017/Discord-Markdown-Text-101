@@ -5,8 +5,23 @@ All you have to do is just plop a few characters in front of a text, and viola a
 
 **This guide contains the following:**
 
-- [Text Formatting](#text-formatting)
-- [Organisational Text Formatting](#organisational-text-formatting)
+- [TEXT FORMATTING](#text-formatting)
+- [ORGANISATIONAL TEXT FORMATTING](#organisational-text-formatting)
+  - [HEADERS](#headers)
+  - [SUBTEXT](#subtext)
+  - [MASKED LINKS](#masked-links)
+  - [LISTS](#lists)
+- [CODE BLOCKS](#code-blocks)
+- [SYNTAX HIGHLIGHTING](#syntax-highlighting)
+- [BLOCK QUOTES](#block-quotes)
+- [SPOILER TAGS](#spoiler-tags)
+- [TIMESTAMPS](#timestamps)
+- [DISCORD BOT/APP SYNTAX](#discord-bot/app-syntax)
+  - [PING USER](#ping-user)
+  - [PING USER NICKNAME](#ping-user-nickname)
+  - [PING CHANNEL](#ping-channel)
+  - [PING ROLE](#ping-role)
+  - [PING CHANNELS AND ROLES FEATURE](#ping-channels-and-roles-feature)
 
 
 
@@ -89,7 +104,7 @@ You can also indent lists by leaving two spaces before the (-)/(\*) Symbols
 
 <img width="270" height="123" alt="Discord_Indented_List_Result" src="https://github.com/user-attachments/assets/b830fca1-b09b-4a59-850b-47894bbb52b1" />
 
-## **CODE BLOCK**
+## **CODE BLOCKS**
 
 You can make your own code blocks by wrapping your text in backticks (`). 
 
@@ -337,7 +352,7 @@ Below, you will find all of the syntaxes that I could find:
 
 <br>
 
-### **Ping User**
+### **PING USER**
 
 To ping a user, type in a smaller than(<) symbol followed by an @ symbol, the user ID of the user and a greater than(>) symbol. For example:
 
@@ -347,7 +362,7 @@ To ping a user, type in a smaller than(<) symbol followed by an @ symbol, the us
 
 <br>
 
-### **Ping User Nickname**
+### **PING USER NICKNAME**
 
 To ping a user by their server nickname, type in a smaller than(<) symbol followed by an at (@) symbol, an exclamation mark (!), the user ID of the user and a greater than(>) symbol. For example:
 
@@ -357,7 +372,7 @@ To ping a user by their server nickname, type in a smaller than(<) symbol follow
 
 <br>
 
-### **Ping Channel**
+### **PING CHANNEL**
 
 To ping a channel on your server, type in a smaller than(<) symbol followed by a hash/pound (#) symbol, an exclamation mark (!), the ID of the channel and a greater than(>) symbol. For example:
 
@@ -367,7 +382,7 @@ To ping a channel on your server, type in a smaller than(<) symbol followed by a
 
 <br>
 
-### **Ping Role**
+### **PING ROLE**
 
 To ping a role on your server, type in a smaller than(<) symbol followed by an at (@) symbol, an ampersand (&), the ID of the role and a greater than(>) symbol. For example:
 
@@ -377,7 +392,7 @@ To ping a role on your server, type in a smaller than(<) symbol followed by an a
 
 <br>
 
-### **Ping Channels and Roles Feature**
+### **PING CHANNELS AND ROLES FEATURE**
 
 The channels and roles feature got added alongside the Discord Server Onboarding feature, which allows server owners to add reaction roles, without adding an external app/bot to do it.
 
@@ -391,7 +406,7 @@ For example:
 
 <br>
 
-### **Use Emojis**
+### **USE EMOJIS**
 
 To use emojis you need the formatted version of the emoji which looks like <:emoji\_name:emoji\_id>
 
@@ -408,6 +423,7 @@ Just type in your emoji, and add a (\\) in front of it before sending
 That's the end
 
 Now you're a Discord Markdown Expert. Get out there and highlight your statements!
+
 
 
 
