@@ -3,7 +3,10 @@ Want to spice up your Discord messages with some flavour and personality, well t
 Discord uses something called Markdown text, a simple yet powerful text formatting system, that can help make your sentences pop.
 All you have to do is just plop a few characters in front of a text, and viola a unique sentence is created
 
-This guide contains the following:
+**This guide contains the following:**
+
+- [Text Formatting](#text-formatting)
+- [Organisational Text Formatting](#organisational-text-formatting)
 
 
 
@@ -113,88 +116,169 @@ klinton isn't my real name
 
 There are many different languages in place of Markdown that Discord's syntax highlighting support. Each different language has its own approach to highlight-able syntax. **Note:** you won't be able to view syntax highlighting on the Mobile app.
 
-asciidoc
+<br>
+
+**asciidoc**
 
 <img width="760" height="220" alt="Discord_asciidoc_Result" src="https://github.com/user-attachments/assets/1b4e3193-3d3e-48c8-86cf-1354526ee3df" />
 
-autohotkey
+<br>
+
+<br>
+
+**autohotkey**
 
 <img width="760" height="130" alt="Discord_autohotkey_Result" src="https://github.com/user-attachments/assets/8c4a0b2b-4cbe-4ffc-9edc-10cd72a76f40" />
 
-bash
+<br>
+
+<br>
+
+**bash**
 
 <img width="760" height="180" alt="Discord_bash_Result" src="https://github.com/user-attachments/assets/2b7f08f3-6ab7-4600-807b-ab6b078cc176" />
 
-cofeescript
+<br>
+
+<br>
+
+**cofeescript**
 
 <img width="760" height="110" alt="Discord_coffeescript_Result" src="https://github.com/user-attachments/assets/812575a4-70b5-4128-a643-68a7a24da755" />
 
-cpp (C++)
+<br>
+
+<br>
+
+**cpp (C++)**
 
 <img width="760" height="110" alt="Discord_cpp_Result" src="https://github.com/user-attachments/assets/602141e7-1840-458c-8c32-a13d3fb00420" />
 
+<br>
 
-cs (C#)
+<br>
+
+**cs (C#)**
 
 <img width="760" height="120" alt="Discord_cs_Result" src="https://github.com/user-attachments/assets/97d2cde9-a7e0-4b02-be2d-50a3eda15c79" />
 
-css
+<br>
+
+<br>
+
+**css**
 
 <img width="760" height="120" alt="Discord_css_Result" src="https://github.com/user-attachments/assets/ac6b1ca1-1d2d-438d-8ce9-69c1ab21b0f9" />
 
-diff
+<br>
+
+<br>
+
+**diff**
 
 <img width="760" height="140" alt="Discord_diff_Result" src="https://github.com/user-attachments/assets/610ae874-898f-4565-8ed6-fb27b27b6558" />
 
-fix
+<br>
+
+<br>
+
+**fix**
 
 <img width="760" height="105" alt="Discord_fix_Result (2)" src="https://github.com/user-attachments/assets/8d2364c7-ed98-4346-9f61-aedeeaa7236b" />
 
-glsl
+<br>
+
+<br>
+
+**glsl**
 
 <img width="760" height="85" alt="Discord_glsl_Result" src="https://github.com/user-attachments/assets/94bb8992-1062-4f4a-844a-00c2623a2d3b" />
 
-ini
+<br>
+
+<br>
+
+**ini**
 
 <img width="760" height="90" alt="Discord_ini_Result" src="https://github.com/user-attachments/assets/8b221ed2-0752-469e-bc2d-bbc3ef04ec02" />
 
-json
+<br>
+
+<br>
+
+**json**
 
 <img width="760" height="76" alt="Discord_json_Result" src="https://github.com/user-attachments/assets/3ffba4a6-6099-4a56-83fa-4353b5d38526" />
 
-md(markdown)
+<br>
+
+<br>
+
+**md(markdown)**
 
 <img width="760" height="280" alt="Discord_md_Result" src="https://github.com/user-attachments/assets/669043e8-adef-43b3-866a-b10d1a2d31d0" />
 
-ml
+<br>
+
+<br>
+
+**ml**
 
 <img width="760" height="130" alt="Discord_ml_Result" src="https://github.com/user-attachments/assets/d590b9e6-bea6-4e64-a10e-b437bc101339" />
 
-prolog
+<br>
+
+<br>
+
+**prolog**
 
 <img width="760" height="110" alt="Discord_prolog_Result" src="https://github.com/user-attachments/assets/2b1c86ae-c5fe-4310-ba4a-549802030074" />
 
-ps
+<br>
+
+<br>
+
+**ps**
 
 <img width="760" height="120" alt="Discord_ps_Result" src="https://github.com/user-attachments/assets/0402cdca-f4d2-4947-aba0-697643915d20" />
 
-py
+<br>
+
+<br>
+
+**py**
 
 <img width="760" height="120" alt="Discord_py_Result" src="https://github.com/user-attachments/assets/0429efe0-5724-4e32-9a1b-edaaf7bb10e3" />
 
-tex
+<br>
+
+<br>
+
+**tex**
 
 <img width="760" height="110" alt="Discord_tex_Result" src="https://github.com/user-attachments/assets/c8a22393-a350-4dcb-8e0b-a50e0601d43d" />
 
-xl
+<br>
+
+<br>
+
+**xl**
 
 <img width="760" height="90" alt="Discord_xl_Result" src="https://github.com/user-attachments/assets/89531db3-596c-484f-ab85-bc03760f17c4" />
 
-xml
+<br>
+
+<br>
+
+**xml**
 
 <img width="760" height="76" alt="Discord_xml_Result" src="https://github.com/user-attachments/assets/95bf568a-ee33-4e2f-9ecf-7d29c63837e7" />
 
-yaml
+<br>
+
+<br>
+
+**yaml**
 
 <img width="760" height="140" alt="Discord_yaml_Result" src="https://github.com/user-attachments/assets/8dd9b2ef-7d68-4baa-8de1-10e8034c20b3" />
 
@@ -211,6 +295,9 @@ Strawberry Ice Cream
 
 <img width="760" height="135" alt="Discord_Single_Line_Block_Quote_Result" src="https://github.com/user-attachments/assets/0194fb74-40b6-4b8b-8ce0-e2b2e8d9ba9d" />
 
+<br>
+
+<br>
 
 If you want to add multiple lines to a single block quote, just add (>>>) before the first line. For example:
 
@@ -232,72 +319,98 @@ Don't click on the grey box below:
 
 <img width="470" height="105" alt="Discord_Spoiler_Tag_Result" src="https://github.com/user-attachments/assets/a70bbbbe-822c-46d6-a847-9b3504d6a879" />
 
+## **TIMESTAMPS**
 
-## **DISCORD BOT SYNTAX**
+Timestamps is a very useful feature, allowing you to make countdowns to dates, and more.
 
+But, since everyone's timezones are different, I won't be able to give exact examples, but I recommend heading over to the link attached below:
 
+[**HammerTime**](https://hammertime.cyou/en-GB)
 
-BOT USER/ROLE/CHANNEL MENTIONING (EMBEDS)
+## **DISCORD BOT/APP SYNTAX**
 
+Unlike users, bots cannot just mention roles, users, channels, etc.
 
+They must use a special syntax with IDs to identify and mention any given roles and/or something else
 
-**Ping User**
+Below, you will find all of the syntaxes that I could find:
+
+<br>
+
+### **Ping User**
+
+To ping a user, type in a smaller than(<) symbol followed by an @ symbol, the user ID of the user and a greater than(>) symbol. For example:
 
 <@{Copy User ID}>
 
+<img width="270" height="50" alt="Discord_pinguser_Result" src="https://github.com/user-attachments/assets/2b2808c8-b362-43e7-9ae4-cbbcce564ffe" />
 
+<br>
 
-**Ping User Nickname**
+### **Ping User Nickname**
+
+To ping a user by their server nickname, type in a smaller than(<) symbol followed by an at (@) symbol, an exclamation mark (!), the user ID of the user and a greater than(>) symbol. For example:
 
 <@!{Copy User ID}>
 
+<img width="270" height="50" alt="Discord_pingusernickname_Result" src="https://github.com/user-attachments/assets/4e537e23-21f7-4d41-b4aa-0ef0b558b660" />
 
+<br>
 
-**Ping Channel**
+### **Ping Channel**
+
+To ping a channel on your server, type in a smaller than(<) symbol followed by a hash/pound (#) symbol, an exclamation mark (!), the ID of the channel and a greater than(>) symbol. For example:
 
 <#{Copy Channel ID}>
 
+<img width="270" height="50" alt="Discord_pingchannel_Result" src="https://github.com/user-attachments/assets/026330cf-9ab0-4055-96c4-47f9cef49f07" />
 
+<br>
 
-**Ping Role**
+### **Ping Role**
+
+To ping a role on your server, type in a smaller than(<) symbol followed by an at (@) symbol, an ampersand (&), the ID of the role and a greater than(>) symbol. For example:
 
 <@\&{Copy Role ID}>
 
+<img width="270" height="50" alt="Discord_pingrole_Result" src="https://github.com/user-attachments/assets/f56e8037-1fa4-4c12-ada7-c9dc2622a2af" />
 
+<br>
 
-**Ping Channels and Roles Feature**
+### **Ping Channels and Roles Feature**
+
+The channels and roles feature got added alongside the Discord Server Onboarding feature, which allows server owners to add reaction roles, without adding an external app/bot to do it.
+
+Bots/Apps can also mention this features, just like it does with channels, etc.
+
+For example:
 
 <[id:customize](id:customize)>
 
+<img width="270" height="50" alt="Discord_pingchannelsandroles_Result" src="https://github.com/user-attachments/assets/9f0d3c22-77ce-4b0c-b982-3ad3a1ee723e" />
 
+<br>
 
-**Use Emoji**
+### **Use Emojis**
 
 To use emojis you need the formatted version of the emoji which looks like <:emoji\_name:emoji\_id>
 
 To get it, type \\:YourEmoji: into any channel within your server to get the formatted version
 
-
-
 **OR**
-
-
 
 Just type in your emoji, and add a (\\) in front of it before sending
 
+<br>
+
+<br>
+
+That's the end
+
+Now you're a Discord Markdown Expert. Get out there and highlight your statements!
 
 
 
-
-## **Timestamps**
-
-
-
-**<t:>**
-
-
-
-**Useful Website:** [**HammerTime**](https://hammertime.cyou/en-GB)
 
 
 
